@@ -8,3 +8,4 @@ cd vnexpress_reader_golang
 go mod tidy
 go run ./
 ```
+### Notice : This app is bearly running. Use the original Python app if you can 
